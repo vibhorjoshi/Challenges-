@@ -1,2 +1,2 @@
-# kaggle-challenge
-# amazon ml-challenge
+# kaggle-Challenge
+# Amazon ML-Challenge
